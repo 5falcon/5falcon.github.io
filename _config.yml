@@ -20,8 +20,6 @@ linkedin_username: "www.linkedin.com/in/evanjones131"
 #########################################################################################
 theme: "minima"
 
-rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
